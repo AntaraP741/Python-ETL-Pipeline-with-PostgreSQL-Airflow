@@ -1,0 +1,9 @@
+2026-01-21 14:43:42,110 - INFO - ETL job started
+2026-01-21 14:43:59,538 - INFO - ETL job started
+2026-01-21 14:44:00,218 - INFO - Row Count - Raw: 7, Clean: 5
+2026-01-21 14:44:00,218 - INFO - Checksum - Raw: 639ad8a98c21fef4997542ea72ff7f79, Clean: 274c15c3319763479db4937c018ac021
+2026-01-21 14:44:00,218 - INFO - ETL job completed successfully
+2026-01-21 14:46:46,823 - INFO - ETL job started
+2026-01-21 14:51:10,394 - INFO - ETL job started
+2026-01-21 14:54:39,598 - INFO - ETL job started
+2026-01-21 14:56:27,899 - INFO - ETL job started
