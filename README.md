@@ -128,10 +128,10 @@ Update credentials in `db_config.py`:
 
 ```python
 DB_CONFIG = {
-    "host": "localhost",
-    "database": "sales",
-    "user": "postgres",
-    "password": "StrongPass123",
+    "host": <host_name>,
+    "database": <db_name>,
+    "user": <username>,
+    "password": <password>,
     "port": 5432
 }
 ```
