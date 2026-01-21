@@ -188,16 +188,6 @@ schedule_interval="*/2 * * * *"
 
 ---
 
-##  Logging & Monitoring
+##  Logging 
 
 * Execution logs stored in `daily_etl.log`
-* Airflow UI provides:
-
-  * Task status
-  * Retry handling
-  * Failure diagnostics
-
-
-
-
-Just say what you want next.
